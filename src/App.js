@@ -76,6 +76,7 @@ class App extends Component {
           // deixa pendente essa letra e testa se a proxima e uma vogal tbm
           // se a proxima for uma vogal tbm entao essa primeira letra vogal
           // forma uma silaba sozinha
+          //
         }
       }
 
